@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Actualmente estudio Administración de sistemas Informáticos en Red.<br>- Titulado en Sistemas microinformáticos y Redes<br>- Proyecto de servidor propio Proxmox con varios servicios en Red.<br>- Aprendiendo constantemente.
+· Actualmente estudio Administración de sistemas Informáticos en Red.<br>· Titulado en Sistemas microinformáticos y Redes<br>· Proyecto de servidor propio Proxmox con varios servicios en Red.<br>· Aprendiendo constantemente.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbo.contacto@gmail.com) 
